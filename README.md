@@ -37,6 +37,7 @@ THEN I find a concise, descriptive title
 
 ## Screenshot 
 
-![Alt text](Assets\01-html-css-git-homework-demo.png)
+![image](https://github.com/alarrabee/horiseon-web-application/assets/149320486/d9e4e659-873b-4e00-84b1-92f0fadc1b52)
+
 
 
